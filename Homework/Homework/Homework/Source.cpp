@@ -5,17 +5,17 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Ukr");
-	/*cout << "Введiть секунду" << endl;
+	/*cout << "Enter a second" << endl;
 	int sec;
-	cin >> sec;                                   Завдання 1 (1)
-	cout << "Година: " << sec / 3600 << endl;
-	cout << "Хвилина: " << sec / 60 << endl;*/
+	cin >> sec;                                   task 1 (1)
+	cout << "Hour: " << sec / 3600 << endl;
+	cout << "Minute: " << sec / 60 << endl;*/
 
 	/*cout << "enter x: " << endl;
 	int x;
 	cin >> x;
 	cout << "function y=x^2" << endl;
-	cout << "x = " << x << endl;                    завдання 2 (9а)
+	cout << "x = " << x << endl;                    task 2 (9а)
 	cout << "y = " << x * x<<endl;
 	cout << "___________________" << endl;
 	cout << "function y=-x" << endl;
@@ -25,7 +25,7 @@ int main()
 	
 	/*cout << "enter x: " << endl;
 	int x;               
-	cin >> x;                                       завдання 3(12г)
+	cin >> x;                                       task 3(12г)
 	cout << "function y=1-x^3" << endl;
 	cout << "x = " << x << endl;
 	cout << "y = " << 1 - pow(x,3);*/
@@ -35,7 +35,7 @@ int main()
 	int x;
 	cin >> x;
 	switch (x)
-	{                                          завдання 4(15)
+	{                                          task 4(15)
 	case 1: cout << "January";
 		break;
 	case 2: cout << "February";
@@ -68,7 +68,7 @@ int main()
 	cout << "Enter number 1: " << endl;
 	cin >> first;
 	cout << "Enter number 2: " << endl;
-	cin >> second;                                  Завдання 5(20)	
+	cin >> second;                                  task 5(20)	
 	cin >> third;
 	cout << "Enter difference: " << endl;
 	int dif;

@@ -11,6 +11,9 @@ int main()
 	//	
 	//}
 
+
+
+
 	/*int m;
 	cin >> m;
 	int k = 0;
@@ -22,15 +25,54 @@ int main()
 	cout << "Result = " << pow(4, k - 1)<<endl;
 	cout << "Answer = " << k-1<<endl;*/
 
-	cout << "Enter n: " << endl;
+
+
+
+	/*cout << "Enter n: " << endl;
 	int n;
 	cin >> n;
 	int u, u1, u2;
 	u1 = 0;
 	u2 = 1;
-	for (int i = 0; i <= n; i++)
+	for (int i = 2; i <= n; i++)
 	{
+		u = u1 + u2;
+		u1 = u2;
+		u2 = u;
+		
 		
 	}
+	cout << u;*/
+
+
+
+	/*cout << "Enter a: " << endl;
+	int a;
+	cin >> a;
+	
+	while (a > 0)
+	{
+		cout << a % 10;
+		a /= 10;
+	}*/
+
+
+
+	/*int a, b;
+	cout << "Enter first number" << endl;
+	cin >> a;
+	cout << "Enter second number" << endl;
+	cin >> b;
+ 
+		int t;
+		while (b != 0) 
+		{
+			t = b;
+			b = a % b;
+			a = t;
+		}
+	
+		cout << a;*/
+	
 	
 }

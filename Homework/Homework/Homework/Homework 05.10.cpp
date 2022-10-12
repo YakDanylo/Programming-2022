@@ -1,10 +1,10 @@
-#include<iostream>
-#include<math.h>
-using namespace std;
-
-int main()
-{
-	setlocale(LC_ALL, "Ukr");
+//#include<iostream>
+//#include<math.h>
+//using namespace std;
+//
+//int main()
+//{
+	//setlocale(LC_ALL, "Ukr");
 	/*cout << "Enter a second" << endl;
 	int sec;
 	cin >> sec;                                   task 1 (1)
@@ -79,4 +79,4 @@ int main()
 	}
 	else
 		cout << "not algebraic sequence";*/
-}
+//}

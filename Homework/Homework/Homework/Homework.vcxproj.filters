@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Homework">
+      <UniqueIdentifier>{fac9b7b0-abeb-4793-82bd-b0a1e7e70e20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classwork">
+      <UniqueIdentifier>{bf89fea8-5aa0-417b-943e-37f97102f2d6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Homework 05.10.cpp">
-      <Filter>Resource Files</Filter>
+      <Filter>Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Classwork 12.10.cpp">
+      <Filter>Classwork</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

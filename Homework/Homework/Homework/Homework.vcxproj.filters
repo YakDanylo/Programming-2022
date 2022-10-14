@@ -19,6 +19,9 @@
     <Filter Include="Classwork">
       <UniqueIdentifier>{bf89fea8-5aa0-417b-943e-37f97102f2d6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Homework\Homework 12.10">
+      <UniqueIdentifier>{693d4d44-53c1-4187-8c96-2e16ad47fc3c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Homework 05.10.cpp">
@@ -28,7 +31,7 @@
       <Filter>Classwork</Filter>
     </ClCompile>
     <ClCompile Include="Homework 12.10.cpp">
-      <Filter>Homework</Filter>
+      <Filter>Homework\Homework 12.10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

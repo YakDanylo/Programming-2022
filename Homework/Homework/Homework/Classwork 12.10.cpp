@@ -1,9 +1,9 @@
-#include<iostream>
-#include<math.h>
-using namespace std;
+//#include<iostream>
+//#include<math.h>
+//using namespace std;
 
-int main()
-{
+//int main()
+//{
 	//for (int i = 0; i <= 100; i++)
 	//{
 	//	cout << "Cel = " << i << " Far = " << (9.0 / 5) * i + 32 << endl;  // Celsium to Farenheit
@@ -75,4 +75,4 @@ int main()
 		cout << a;*/
 	
 	
-}
+//}

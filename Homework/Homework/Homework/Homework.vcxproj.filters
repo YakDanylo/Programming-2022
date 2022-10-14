@@ -27,5 +27,8 @@
     <ClCompile Include="Classwork 12.10.cpp">
       <Filter>Classwork</Filter>
     </ClCompile>
+    <ClCompile Include="Homework 12.10.cpp">
+      <Filter>Homework</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

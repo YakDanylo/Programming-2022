@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Homework 05.10.cpp" />
     <ClCompile Include="Classwork 12.10.cpp" />
+    <ClCompile Include="Homework 12.10.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

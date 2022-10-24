@@ -442,4 +442,4 @@ FodyWeavers.xsd
 *.dSYM
 
 #Github
-*.gitignore
+.gitignore

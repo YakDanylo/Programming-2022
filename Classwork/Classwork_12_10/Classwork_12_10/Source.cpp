@@ -19,7 +19,7 @@
 	int k = 0;
 	while (pow(4,k)<m)
 	{
-		
+
 		k++;
 	}
 	cout << "Result = " << pow(4, k - 1)<<endl;
@@ -39,8 +39,8 @@
 		u = u1 + u2;
 		u1 = u2;
 		u2 = u;
-		
-		
+
+
 	}
 	cout << u;*/
 
@@ -49,7 +49,7 @@
 	/*cout << "Enter a: " << endl;
 	int a;
 	cin >> a;
-	
+
 	while (a > 0)
 	{
 		cout << a % 10;
@@ -63,16 +63,16 @@
 	cin >> a;
 	cout << "Enter second number" << endl;
 	cin >> b;
- 
+
 		int t;
-		while (b != 0) 
+		while (b != 0)
 		{
 			t = b;
 			b = a % b;
 			a = t;
 		}
-	
+
 		cout << a;*/
-	
-	
-//}
+
+
+		//}

@@ -1,0 +1,3 @@
+Subject: Physics Number: 5 NameOfCarrier: Comp
+Subject: PE Number: 7 NameOfCarrier: Comp
+Number of comps carriers - 2

@@ -1,0 +1,9 @@
+ S Oleksii PMI-11
+P Math 2 10 Chair
+P Biology 34 5 Pants
+E Algebra 122 Phone
+E Physics 5 Comp
+ S Stepan PMI-12
+E DiscretMath 63 Pants
+P Chemisty 12 5 Shirt
+E PE 7 Comp

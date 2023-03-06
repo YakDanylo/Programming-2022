@@ -1,0 +1,7 @@
+Subject: Algebra Number: 122 NameOfCarrier: Phone
+ Subject: Biology Number: 34 Size: 5 Hiding place: Pants
+ Subject: Chemisty Number: 12 Size: 5 Hiding place: Shirt
+Subject: DiscretMath Number: 63 NameOfCarrier: Pants
+ Subject: Math Number: 2 Size: 10 Hiding place: Chair
+Subject: PE Number: 7 NameOfCarrier: Comp
+Subject: Physics Number: 5 NameOfCarrier: Comp

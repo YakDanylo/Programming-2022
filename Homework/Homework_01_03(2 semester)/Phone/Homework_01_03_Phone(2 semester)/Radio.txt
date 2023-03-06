@@ -1,0 +1,3 @@
+Motorolla Ex24 100 5000 1
+Nokia i4jt 200 10000 0
+Motorfgfgrolla Esx24 1600 5000 1

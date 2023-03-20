@@ -1,0 +1,3 @@
+Engine Capacity: 4500 Name: Boat Type of water: Lake Max speed: 100
+Engine Capacity: 800 Name: Gydrocycl Type of water: Sea Max speed: 80
+Engine Capacity: 60000 Name: Ship Type of water: Ocean Max speed: 400

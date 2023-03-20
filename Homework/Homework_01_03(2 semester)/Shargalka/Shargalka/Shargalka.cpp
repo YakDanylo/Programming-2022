@@ -159,7 +159,6 @@ int main()
             if (newArr[i]->get_subject() < newArr[j]->get_subject())
             {
                 swap(newArr[i], newArr[j]);
-
             }
         }
     }

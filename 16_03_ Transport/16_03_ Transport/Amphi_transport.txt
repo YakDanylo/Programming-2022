@@ -1,0 +1,3 @@
+Engine capacity: 3000 Name: Amph Type of water Lake Max water speed: 200 Max land speed: 100 Number of seats: 4 Hours in water: 30 Hours on land: 50
+Engine capacity: 4000 Name: Korshun Type of water Lake Max water speed: 300 Max land speed: 150 Number of seats: 1 Hours in water: 50 Hours on land: 20
+Engine capacity: 5000 Name: Tornado Type of water Sea Max water speed: 350 Max land speed: 200 Number of seats: 2 Hours in water: 40 Hours on land: 35

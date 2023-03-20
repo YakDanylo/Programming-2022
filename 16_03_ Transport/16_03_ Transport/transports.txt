@@ -1,0 +1,10 @@
+A 3000 Amph Lake 200 100 4 30 50 
+L 2300 Car 250 5 
+W 60000 Ship Ocean 400 
+W 4500 Boat Lake 100
+L 6000 Truck 90 3 
+A 4000 Korshun Lake 300 150 1 50 20
+A 5000 Tornado Sea 350 200 2 40 35
+L 7000 Zil 100 2
+L 1000 Motorbike 300 2
+W 800 Gydrocycl Sea 80

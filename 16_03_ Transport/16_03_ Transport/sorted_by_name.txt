@@ -1,0 +1,10 @@
+Engine capacity: 3000 Name: Amph Type of water Lake Max water speed: 200 Max land speed: 100 Number of seats: 4 Hours in water: 30 Hours on land: 50
+Engine Capacity: 4500 Name: Boat Type of water: Lake Max speed: 100
+Engine Capacity: 2300 Name: Car Max speed: 250 Number of seats: 5
+Engine Capacity: 800 Name: Gydrocycl Type of water: Sea Max speed: 80
+Engine capacity: 4000 Name: Korshun Type of water Lake Max water speed: 300 Max land speed: 150 Number of seats: 1 Hours in water: 50 Hours on land: 20
+Engine Capacity: 1000 Name: Motorbike Max speed: 300 Number of seats: 2
+Engine Capacity: 60000 Name: Ship Type of water: Ocean Max speed: 400
+Engine capacity: 5000 Name: Tornado Type of water Sea Max water speed: 350 Max land speed: 200 Number of seats: 2 Hours in water: 40 Hours on land: 35
+Engine Capacity: 6000 Name: Truck Max speed: 90 Number of seats: 3
+Engine Capacity: 7000 Name: Zil Max speed: 100 Number of seats: 2
